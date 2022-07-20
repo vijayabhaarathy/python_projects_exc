@@ -7,7 +7,7 @@ Created on Wed Jul 20 17:42:27 2022
 
 from tkinter import *
 from datetime import date
-
+ 
 master = Tk()
 master.title('Calculate Age')
 master.geometry('250x300')
